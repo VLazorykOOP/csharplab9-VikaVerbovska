@@ -55,8 +55,6 @@ namespace Lab9Tasks
         {
             return allNumbers.GetEnumerator();
         }
-
-        // Приклад IComparer — якщо треба буде сортувати (не обов'язково для цього завдання)
         public class NumberComparer : IComparer
         {
             public int Compare(object x, object y)

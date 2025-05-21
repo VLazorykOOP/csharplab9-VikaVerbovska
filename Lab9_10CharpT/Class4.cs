@@ -123,7 +123,6 @@ namespace Lab9Tasks
         }
     }
 
-    // Запуск
     public class Lab9T4
     {
         public void Run()
